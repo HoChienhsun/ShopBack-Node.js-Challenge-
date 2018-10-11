@@ -6,7 +6,7 @@ Created by Ho Chien Hsun
 3. npm i cheerio request // install the npm package cheerio.
 4. download the js file named scrape.js and put it into Node_project folder.
 5. npm scrape http://YourURL.com  
-// Currently, this scrape only allow to input HTTP URLs.
+// Currently, this scrape only allows to input HTTP URLs.
 //You can just paste the URL that you want to check after scrape. The 1st argv is npm, 2nd argv is scrape(js file name), 3rd argv is the URL.
 
 6. You will get your output file named 'NodeJs_output.txt' in this folder.
